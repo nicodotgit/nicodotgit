@@ -62,12 +62,12 @@
   - 💻 **Laptop:** Lenovo IdeaPad Slim 3 15IRH10 [83K1006JCL]
     - *CPU:* Intel I5-13420H
     - *RAM/Storage:* 8GB DDR5 / 512GB NVMe
-    - *OS:* Windows 11 25H2
+    - *OS:* Arch Linux 6.17.6-arch1-1 (GNOME 49.1 on Wayland)
   
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400
     - *RAM/Storage:* 16GB DDR4 / 512GB M.2 + 240GB SSD + 1TB HDD
-    - *OS:* Arch Linux (GNOME 49 on Wayland)
+    - *OS:* Windows 11 25H2
 
   - 📱 **Secondary/Project Devices:**
     - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, running a private Project NERV build (Android 15). *[Serving as my GF's temporal main phone]*

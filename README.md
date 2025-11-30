@@ -23,8 +23,6 @@
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-  <a href="#"><img alt="NSIS" src="https://img.shields.io/badge/NSIS-lightgrey?style=for-the-badge"></a>
 </p>
 
 #### 🌱 I'm Currently Learning
@@ -39,12 +37,7 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ngdplnk&style=flat-square&color=blue" alt="Profile Views"/>
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ngdplnk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ngdplnk's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngdplnk&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="ngdplnk's top languages" />
+  <img src="https://komarev.com/ghpvc/?username=nicodotgit&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
@@ -62,7 +55,7 @@
   - 💻 **Laptop:** Lenovo IdeaPad Slim 3 15IRH10 [83K1006JCL]
     - *CPU:* Intel I5-13420H
     - *RAM/Storage:* 8GB DDR5 / 512GB NVMe
-    - *OS:* Arch Linux 6.17.8-arch1-1 (GNOME 49.1 on Wayland)
+    - *OS:* Arch Linux 6.17.9-arch1-1 (GNOME 49.2 on Wayland)
   
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400
@@ -80,10 +73,7 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://t.me/ngdplnk">
+  <a href="https://t.me/nicodotgit">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://xdaforums.com/m/ngdpl-nk.12569749/">
-    <img src="https://img.shields.io/badge/XDA_Forums-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA Forums">
   </a>
 </p>

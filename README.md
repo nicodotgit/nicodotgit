@@ -9,7 +9,7 @@
     Passionate about mobile technology, custom ROMs, and building software solutions.
   </p>
 
-  <img src="https://img.shields.io/badge/Age-20.866-blue?style=for-the-badge" alt="My Age">
+  <img src="https://img.shields.io/badge/Age-20.877-blue?style=for-the-badge" alt="My Age">
   <img src="https://img.shields.io/badge/Pronouns-he/him-blue?style=for-the-badge" alt="My Pronouns">
 
 </div>
@@ -63,8 +63,8 @@
     - *OS:* Windows 11 25H2
 
   - 📱 **Secondary/Project Devices:**
-    - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, running a private Project NERV build (Android 15). *[Serving as my GF's temporal main phone]*
-    - **Samsung Galaxy J7 Pro** (`j7y17lte`): Exynos 7870, running Stock OneUI 1 (Android 9). *[Running a file server - Dead Screen]*
+    - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, no working OS installed.
+    - **Samsung Galaxy J7 Pro** (`j7y17lte`): Exynos 7870, running Stock OneUI 1 (Android 9). *[Dead Screen]*
 
 </details>
 

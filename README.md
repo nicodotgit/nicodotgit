@@ -9,7 +9,7 @@
     Passionate about mobile technology, custom ROMs, and building software solutions.
   </p>
 
-  <img src="https://img.shields.io/badge/Age-20.967-blue?style=for-the-badge" alt="My Age">
+  <img src="https://img.shields.io/badge/Age-20.9671-blue?style=for-the-badge" alt="My Age">
   <img src="https://img.shields.io/badge/Pronouns-he/him-blue?style=for-the-badge" alt="My Pronouns">
 
 </div>
@@ -55,7 +55,7 @@
   - 💻 **Laptop:** Lenovo IdeaPad Slim 3 15IRH10 [83K1006JCL]
     - *CPU:* Intel I5-13420H
     - *RAM/Storage:* 8GB DDR5 / 512GB NVMe
-    - *OS:* Arch Linux 6.18.2-zen1-1 (GNOME 49.2 on Wayland)
+    - *OS:* Arch Linux 6.18.5-zen1-1-zen (GNOME 49.2 on Wayland)
   
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400

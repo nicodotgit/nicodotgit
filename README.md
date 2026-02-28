@@ -49,21 +49,21 @@
   
   - 📱 **Main Phone:** Xiaomi 14T (`degas`)
     - *SoC:* MediaTek Dimensity 8300 Ultra
-    - *RAM/Storage:* 12GB / 512GB
-    - *OS:* Rooted Stock HyperOS 3 (Android 16)
+    - *RAM/Storage:* 12GB / 512GB UFS 4.0
+    - *OS:* Rooted Taiwanese HyperOS 3 (Android 16)
   
   - 💻 **Laptop:** Lenovo IdeaPad Slim 3 15IRH10 [83K1006JCL]
     - *CPU:* Intel I5-13420H
     - *RAM/Storage:* 8GB DDR5 / 512GB NVMe
-    - *OS:* Arch Linux 6.18.5-zen1-1-zen (GNOME 49.2 on Wayland)
+    - *OS:* Dualboot of Arch Linux 6.18.13-zen1-1-zen (KDE Plasma 6.6.1 on Wayland) and Windows 11 IoT LTSC.
   
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400
     - *RAM/Storage:* 16GB DDR4 / 512GB M.2 + 240GB SSD + 1TB HDD
-    - *OS:* Windows 11 25H2
+    - *OS:* Windows 11 IoT LTSC.
 
   - 📱 **Secondary/Project Devices:**
-    - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, Running Rooted [UN1CA](https://github.com/salvogiangri/UN1CA) v3.0.5 (OneUI 8/Android 16)
+    - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, Running Rooted [UN1CA](https://github.com/salvogiangri/UN1CA) v3.0.6 (OneUI 8/Android 16)
     - **Samsung Galaxy J7 Pro** (`j7y17lte`): Exynos 7870, running Rooted Stock OneUI 1 (Android 9). *[Dead Screen]*
 
 </details>

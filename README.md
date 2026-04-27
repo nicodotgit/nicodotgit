@@ -5,7 +5,7 @@
   <h1>Hey, I'm Nicolás (Nico) 👋</h1>
   
   <p>
-    <b>A Civil Engineering & Computer Science student from Chile 🇨🇱</b><br/>
+    <b>A Computer Science student from Chile 🇨🇱</b><br/>
     Passionate about mobile technology, custom ROMs, and building software solutions.
   </p>
 
@@ -58,21 +58,21 @@
   - 📱 **Main Phone:** Xiaomi 14T (`degas`)
     - *SoC:* MediaTek Dimensity 8300 Ultra
     - *RAM/Storage:* 12GB / 512GB UFS 4.0
-    - *OS:* Rooted Taiwanese HyperOS 3 (Android 16)
+    - *OS:* Rooted Taiwanese HyperOS 3.1 (Android 16)
   
   - 💻 **Laptop:** Lenovo IdeaPad Slim 3 15IRH10 [83K1006JCL]
-    - *CPU:* Intel I5-13420H
+    - *CPU:* Intel i5-13420H
     - *RAM/Storage:* 8GB DDR5 / 512GB NVMe
-    - *OS:* Dualboot of Arch Linux 6.18.13-zen1-1-zen (KDE Plasma 6.6.1 on Wayland) and Windows 11 IoT LTSC.
+    - *OS:* Arch Linux 7.0.1-zen1-1 (KDE Plasma 6.6.4 on Wayland)
   
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400
-    - *RAM/Storage:* 16GB DDR4 / 512GB M.2 + 240GB SSD + 1TB HDD
-    - *OS:* Windows 11 IoT LTSC.
+    - *RAM/Storage:* 16GB DDR4 / 512GB NVMe + 240GB SSD + 1TB HDD
+    - *OS:* Uhm... No OS installed for now
 
   - 📱 **Secondary/Project Devices:**
-    - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, Running Rooted [UN1CA](https://github.com/salvogiangri/UN1CA) v3.0.6 (OneUI 8/Android 16)
-    - **Samsung Galaxy J7 Pro** (`j7y17lte`): Exynos 7870, running Rooted Stock OneUI 1 (Android 9). *[Dead Screen]*
+    - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, 6/128, running Rooted [LineageOS](https://download.lineageos.org/devices/a73xq/builds) Vanilla (Android 16)
+    - **Samsung Galaxy J7 Pro** (`j7y17lte`): Exynos 7870, 3/32, running Rooted Stock OneUI 1 (Android 9). *[Dead Screen]*
 
 </details>
 

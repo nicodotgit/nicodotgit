@@ -63,8 +63,8 @@
   - 💻 **Laptop:** Lenovo IdeaPad Slim 3 15IRH10 [83K1006JCL]
     - *CPU:* Intel i5-13420H
     - *RAM/Storage:* 8GB DDR5 / 512GB NVMe
-    - *OS:* Arch Linux 7.0.1-zen1-1 (KDE Plasma 6.6.4 on Wayland)
-  
+    - *OS:* Arch Linux 7.2.6-zen2-1 (KDE Plasma 6.7.5 on Wayland) and Windows 11 IoT LTSC 24H2 Dual-Boot
+
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400
     - *RAM/Storage:* 16GB DDR4 / 512GB NVMe + 240GB SSD + 1TB HDD
